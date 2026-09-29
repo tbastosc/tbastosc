@@ -6,7 +6,7 @@
 
 *Good security is built, not bought.*
 
- 🇵🇹 Portuguese · 🇬🇧 English · 🇫🇷 Basic
+ 🇵🇹 Portuguese · 🇬🇧 English · 🇫🇷 French
 
 
 </div align="center">
