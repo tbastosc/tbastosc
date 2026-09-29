@@ -12,9 +12,8 @@
 </div align="center">
 
 
-| [👤 About](#-about-me) | [🛠️ Skills & Tools](#️-skills--tools) | [🚀 Projects](#-projects) | [📝 Write-ups](#-write-ups) |
-|:--:|:--:|:--:|:--:|
-| [💼 Experience](#-experience) | [🏆 Certifications](#-certifications--training) | [🎯 Roadmap](#-roadmap) | [📬 Contact](#-contact) |
+| [🛠️ Skills & Tools](#️-skills--tools) | [🚀 Projects](#-projects) | [📝 Write-ups](#-write-ups) | 📝 Notes and CheatSheets (#-notes-and-cheatsheets) | [🏆 Certifications](#-certifications--training) | [📬 Contact](#-contact) |
+
 
 ---
 
@@ -145,21 +144,19 @@ flowchart LR
 
 | 📂 **KQL** [View](https://github.com/tbastosc/writeups) |
 
-| 📂 **Unlocking Machites - Crowdstrike** [View](https://github.com/tbastosc/)| 
+| 📂 **Unlocking Machines - Crowdstrike** [View](https://github.com/tbastosc/)| 
 
 | 📂 **Phishing Runbook - GSO** [View](https://github.com/tbastosc/writeups)|
 
 ---
 
 ## 📝 Notes and CheatSheets 
-| 📂 **Linux CheatSheet** [View](https://tbastosc.github.io/linux-cheatsheet)|
+| 📂 **Linux CheatSheet_Fundamentals to Advanced (PT)** [View](https://tbastosc.github.io/linux-cheatsheet)|
 
-| 📂 **Microsoft CheatSheet** [View](https://tbastosc.github.io/microsoft-cheatsheet)|
+| 📂 **Microsoft CheatSheet_Fundamentals to Advanced (PT)** [View](https://tbastosc.github.io/microsoft-cheatsheet)|
 
 
 ## 🏆 Certifications & Training
-
-### Certifications
 
 | Status | Certification | 
 |:--:|---|
