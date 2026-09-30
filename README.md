@@ -7,6 +7,7 @@
 *Detection starts with visibility, response starts with preparation. Good security is built, not bought.*
 
  🇵🇹 Portuguese · 🇬🇧 English · 🇫🇷 French
+</div>
 
 ---
 
@@ -36,4 +37,4 @@ Open to **SOC Analyst** and **network security** opportunities.
 
 ![Profile views](https://komarev.com/ghpvc/?username=tbastosc&label=Visitors&color=0e75b6&style=flat-square)
 
-</div>
+
