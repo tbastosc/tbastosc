@@ -4,7 +4,7 @@
 
 ### Security Operations Analyst · Network & Cybersecurity Administrator
 
-*Good security is built, not bought.*
+*Detection starts with visibility, response starts with preparation. Good security is built, not bought.*
 
  🇵🇹 Portuguese · 🇬🇧 English · 🇫🇷 French
 
@@ -54,12 +54,39 @@ Skills and Tools active learning
 ---
 
 ## 🚀 Projects
-
+<!--
 | # | Project | Focus | Stack |
 |---|---|---|---|
 |  | [Secure Infrastructure (Final Project)](#secure-infrastructure-final-project) | Defense-in-depth + ZTNA | pfSense · Wazuh · AD · Nessus |
 |  | [Microsoft Sentinel Lab](#microsoft-sentinel-lab) | Detection engineering (SC-200) | Sentinel · KQL · Defender |
 |  | [Proxmox Security Homelab](#proxmox-security-homelab) | SOC + AD attack/defense | Security Onion · Wazuh · TheHive |
+-->
+<details>
+<summary> <b> Secure Infrastructure for company Codesecure (Network-Cybersecurity-Adminitrator-Assessment-Project) >> More details</b></summary>
+
+`Cesae Digital · 01/2026 – 03/2026` · 📂 [<b>View Repository</b>](https://github.com/tbastosc/Network-Cybersecurity-Adminitrator-Assessment-Project) 
+
+Designed and implemented a segmented, secure IT infrastructure (**defense-in-depth + ZTNA**) for a simulated company with **120 hosted websites and 14 client VMs**.
+
+| Domain | What I built |
+|---|---|
+| 🌐 **Network** | VLANs/VLSM, DMZ, ACLs, pfSense perimeter firewall |
+| 🔐 **Secure Access** | ZTNA via Cloudflare, reverse proxy shielding internal web servers |
+| ⚔️ **Pentesting** | Attack on a vulnerable Drupal server: SQL injection → root, mapped to MITRE ATT&CK |
+| 📋 **Risk Assessment** | Formal analysis of **19 critical assets** with mitigations |
+| 🧱 **Hardening** | Linux: UFW, SSH, Fail2ban, auditd, AppArmor, ModSecurity WAF · Windows/AD: GPOs, lockout policies, UAC, RDP restriction |
+| 📡 **SIEM** | rsyslog + Wazuh with active response for brute-force, SQLi and malware (YARA) |
+
+`Packet Tracer` `pfSense` `Wazuh` `Active Directory` `Linux` `Nessus` `GRC` `MITRE ATT&CK`
+
+</details>
+
+<details>
+<summary><b>More details</b></summary>
+
+Hidden until clicked. Supports **markdown**, lists and tables.
+
+</details>
 
 <!--
 ### Secure Infrastructure (Final Project)
