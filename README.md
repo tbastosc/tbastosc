@@ -29,7 +29,7 @@ Early-career **Network & Cybersecurity Administrator** with hands-on experience 
 
 Open to **SOC Analyst** and **network security** opportunities.
 
-- [Portfolio](https://tbastosc.github.io)
+- 🌐 [Portfolio](https://tbastosc.github.io)
 - 💼 [LinkedIn](https://linkedin.com/in/tiago-cbastos/)
 - 📧 [tbastosc@gmail.com](mailto:tbastosc@gmail.com)
 
