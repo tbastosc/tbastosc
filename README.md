@@ -81,36 +81,12 @@ Designed and implemented a segmented, secure IT infrastructure (**defense-in-dep
 
 </details>
 
-<details>
-<summary><b>More details</b></summary>
-
-Hidden until clicked. Supports **markdown**, lists and tables.
-
-</details>
-
-<!--
-### Secure Infrastructure (Final Project)
-
-`Cesae Digital · 01/2026 – 03/2026` · 📂 [Repository](https://github.com/tbastosc/secure-infrastructure-project) · 📄 [Documentation](https://github.com/tbastosc/secure-infrastructure-project/tree/main/docs)
-
-Designed and implemented a segmented, secure IT infrastructure (**defense-in-depth + ZTNA**) for a simulated company with **120 hosted websites and 14 client VMs**.
-
-| Domain | What I built |
-|---|---|
-| 🌐 **Network** | VLANs/VLSM, DMZ, ACLs, pfSense perimeter firewall |
-| 🔐 **Secure Access** | ZTNA via Cloudflare, reverse proxy shielding internal web servers |
-| ⚔️ **Pentesting** | Attack on a vulnerable Drupal server: SQL injection → root, mapped to MITRE ATT&CK |
-| 📋 **Risk Assessment** | Formal analysis of **19 critical assets** with mitigations |
-| 🧱 **Hardening** | Linux: UFW, SSH, Fail2ban, auditd, AppArmor, ModSecurity WAF · Windows/AD: GPOs, lockout policies, UAC, RDP restriction |
-| 📡 **SIEM** | rsyslog + Wazuh with active response for brute-force, SQLi and malware (YARA) |
-
-`Packet Tracer` `pfSense` `Wazuh` `Active Directory` `Linux` `Nessus` `GRC` `MITRE ATT&CK`
-
 ---
 
-### Microsoft Sentinel Lab
+<details>
+<summary><b>Thread Hunting - Sentinel & Defender XDR  >> More details</b></summary>
 
-`05/2026 – 08/2026` · 📂 [Repository](https://github.com/tbastosc/sentinel-lab) · 📄 [KQL queries](https://github.com/tbastosc/sentinel-lab/tree/main/kql)
+`05/2026 – 08/2026` · 📂 [Repository](https://github.com/tbastosc/sentinel-defender-xdr-threat-hunting/labs/) · 📄 [KQL queries](https://github.com/tbastosc/sentinel-defender-xdr-threat-hunting)
 
 Hands-on Azure lab built while preparing for the **SC-200** (Security Operations Analyst Associate).
 
@@ -120,12 +96,14 @@ Hands-on Azure lab built while preparing for the **SC-200** (Security Operations
 - Used watchlists, **threat intelligence IOCs** and Content Hub solutions
 
 `Microsoft Sentinel` `Azure Log Analytics` `KQL` `Microsoft Defender` `MITRE ATT&CK`
+</details>
 
 ---
 
-### Proxmox Security Homelab
+<details>
+<summary><b>Security SOC lab - Proxmox server (WIP) >> More details</b></summary>
 
-`05/2026 – Current` · 📂 [Repository](https://github.com/tbastosc/proxmox-homelab) · 📄 [Documentation](https://github.com/tbastosc/proxmox-homelab/tree/main/docs)
+`05/2026 – Current` · 📂 [Repository (WIP)](https://github.com/tbastosc/proxmox-homelab) · 📄 [Documentation](https://github.com/tbastosc/proxmox-homelab/tree/main/docs)
 
 Self-hosted Proxmox environment split into a **cybersecurity lab** and a **personal cloud**, used to practice alert triage, investigation, containment and remediation.
 
@@ -147,9 +125,9 @@ flowchart LR
 - ☁️ **Self-hosted cloud:** Jellyfin, Immich, personal backups
 
 `Proxmox` `pfSense` `VLANs` `Twingate` `Cloudflare ZT` `Security Onion` `Wazuh` `TheHive` `MISP` `Kali` `Docker`
+</details>
 
 ---
--->
 
 ## 📝 Write-ups
 
@@ -169,11 +147,11 @@ flowchart LR
 
 ## 📝 Runbooks and Playbooks DOCS
 
-| 📂 **KQL** [View](https://github.com/tbastosc/writeups) |
+| 📂 **Threat Hunting with KQL** [View PT](https://github.com/tbastosc/docs-runbooks-playbooks/playbook_threat_hunting_kql.md) | [View ENG](https://github.com/tbastosc/docs-runbooks-playbooks/playbook_threat_hunting_kql_EN.md) 
 
-| 📂 **Unlocking Machines - Crowdstrike** [View](https://github.com/tbastosc/)| 
+| 📂 **Unlocking Machines - Crowdstrike** [View_PT](https://github.com/tbastosc/docs-runbooks-playbooks/runbook_desbloqueio_crowdstrike.md)| 
 
-| 📂 **Phishing Runbook - GSO** [View](https://github.com/tbastosc/writeups)|
+| 📂 **Phishing Runbook - GSO** [View_PT](https://github.com/tbastosc/docs-runbooks-playbooks/runbook_phishing.md)|
 
 ---
 
